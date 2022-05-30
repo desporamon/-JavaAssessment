@@ -26,7 +26,7 @@ Exception Handling for wrong date input
 - Would have appreciated more time as I did not have enough time to complete the exception handling part. Was mainly focusing on ArrayList, HashMap, OOPs over the weekend for revision. 
 
 ![image](https://user-images.githubusercontent.com/102950310/170977491-94989b3b-24af-4bd6-916d-864fc8083335.png)
-![image](https://user-images.githubusercontent.com/102950310/170977507-d18d9896-7cdd-40e3-8f6e-be59dbe625e2.png)
+![image](https://user-images.githubusercontent.com/102950310/170977911-ebb26c1d-4138-4dce-9164-afaf8d9a2a47.png)
 ![image](https://user-images.githubusercontent.com/102950310/170977526-ddd41a1b-38fb-4832-8050-43c9de1be99b.png)
 ![image](https://user-images.githubusercontent.com/102950310/170977555-faf3432f-611e-4a0d-a0e0-92d848149735.png)
 ![image](https://user-images.githubusercontent.com/102950310/170977583-106a4569-7b7c-471b-a355-791aead3639f.png)
