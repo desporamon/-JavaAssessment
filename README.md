@@ -23,4 +23,20 @@ Exception Handling for wrong date input
 
 ###### What would make your experience with this assessment better?
 - Initial setup was very helpful. However, I have to go through thoroughly the code-along section to make sure I properly understand before jumping into writing my codes.
-- Would have appreciated more time as I did not have enough time to complete the exception handling part. Was mainly focusing on ArrayList, HashMap, OOPs over the weekend. 
+- Would have appreciated more time as I did not have enough time to complete the exception handling part. Was mainly focusing on ArrayList, HashMap, OOPs over the weekend for revision. 
+
+![image](https://user-images.githubusercontent.com/102950310/170977491-94989b3b-24af-4bd6-916d-864fc8083335.png)
+![image](https://user-images.githubusercontent.com/102950310/170977507-d18d9896-7cdd-40e3-8f6e-be59dbe625e2.png)
+![image](https://user-images.githubusercontent.com/102950310/170977526-ddd41a1b-38fb-4832-8050-43c9de1be99b.png)
+![image](https://user-images.githubusercontent.com/102950310/170977555-faf3432f-611e-4a0d-a0e0-92d848149735.png)
+![image](https://user-images.githubusercontent.com/102950310/170977583-106a4569-7b7c-471b-a355-791aead3639f.png)
+![image](https://user-images.githubusercontent.com/102950310/170977600-f0cc6802-11df-49a7-a509-89b5e61f8f37.png)
+![image](https://user-images.githubusercontent.com/102950310/170977609-a9558158-388e-4d9f-a428-9b1ca3cf38a5.png)
+![image](https://user-images.githubusercontent.com/102950310/170977623-ef705d68-74b6-44b2-9c25-c09d47581833.png)
+
+
+
+
+
+
+
